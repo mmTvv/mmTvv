@@ -1,5 +1,5 @@
 <h1>Hi, I'm mmTvv. You can see my coding portfolio/stats here.</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=mmTvv" alt="moom0o" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=mmTvv" alt="mmTvv" /> </p>
 <p>I know NodeJS, Python, JavaScript, C++ and Java</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmTvv" alt="mmTvv" /></a> </p>
 
