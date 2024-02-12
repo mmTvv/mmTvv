@@ -6,4 +6,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmTvv&show_icons=true&locale=en" alt="mTvv" /></p>
 <p>More on my site: <a href='https://matveev.website'>matveev.website</a></p>
-<p>Contact me: <a href='mailto:iam@matveev.website'>Send mail</a></p>
+<p>Contact me: 
+  <a href='mailto:iam@matveev.website'>Send mail</a>
+  <a href='https://vk.com/im?sel=682404934'>VKontakte</a>
+  <a href='https://t.me/srtghsdfgadgadfg'>Telegram</a>
+</p>
